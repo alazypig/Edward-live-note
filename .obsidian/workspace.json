@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "af96f03bf29bd102",
+        "id": "a47a5d9af391b694",
         "type": "tabs",
         "children": [
           {
-            "id": "ab2bc8335d398a1c",
+            "id": "52273dfcd3d22eea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frontend/输入URL，按下Enter之后，发生了什么。.md",
+                "file": "algorithm/Breadth-First Search.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ba6118e6e3a85c7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b3cc158b9da4aab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithm/Depth-First Search.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -86,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frontend/输入URL，按下Enter之后，发生了什么。.md",
+                "file": "algorithm/Breadth-First Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "frontend/输入URL，按下Enter之后，发生了什么。.md",
+                "file": "algorithm/Breadth-First Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frontend/输入URL，按下Enter之后，发生了什么。.md"
+                "file": "algorithm/Breadth-First Search.md"
               }
             }
           }
@@ -148,10 +166,13 @@
       "daily-notes-editor:Open Daily Note Editor": false
     }
   },
-  "active": "ab2bc8335d398a1c",
+  "active": "52273dfcd3d22eea",
   "lastOpenFiles": [
     "algorithm/Depth-First Search.md",
     "algorithm/Breadth-First Search.md",
+    "frontend/输入URL，按下Enter之后，发生了什么。.md",
+    "images/14.jpg.md",
+    "images",
     "Diary/2023-09-02.md",
     "algorithm/images/15.png",
     "algorithm/images/14.png",
@@ -161,7 +182,6 @@
     "Diary/2021-07-30.md",
     "frontend/阿里钉钉团队前端考试卷.md",
     "frontend/实现JS compiler.md",
-    "frontend/输入URL，按下Enter之后，发生了什么。.md",
     "frontend/images/21.jpg",
     "frontend/images/20.jpg",
     "frontend/images/19.jpg",
@@ -185,7 +205,6 @@
     "Diary/2020-07-03.md",
     "Diary/2020-06-24.md",
     "Diary/2020-06-20.md",
-    "Diary/2020-06-19.md",
     "algorithm/images",
     "algorithm",
     "frontend/images",
@@ -195,7 +214,6 @@
     "锂电",
     "STM32/images",
     "STM32",
-    "未命名.canvas",
-    "Diary"
+    "未命名.canvas"
   ]
 }
