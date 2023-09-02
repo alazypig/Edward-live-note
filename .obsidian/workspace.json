@@ -4,15 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "3b43cda17f8dfb4a",
+        "id": "ee08673578207909",
         "type": "tabs",
         "children": [
           {
-            "id": "28e64ea091e609ec",
+            "id": "5409fb298f0f7333",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "algorithm/Breadth-First Search.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c8cb6d8a6cefada4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b2fd0058b127c39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithm/Breadth-First Search.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "algorithm/Breadth-First Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "algorithm/Breadth-First Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "algorithm/Breadth-First Search.md"
+              }
             }
           }
         ]
@@ -139,32 +165,53 @@
       "daily-notes-editor:Open Daily Note Editor": false
     }
   },
-  "active": "1affc0cfa6724429",
+  "active": "5409fb298f0f7333",
   "lastOpenFiles": [
-    "STM32/GPIO位结构.md",
-    "STM32/images/23.png",
-    "STM32/GPIO输入.md",
-    "STM32/images/20.png",
-    "STM32/images/19.png",
-    "STM32/images/22.png",
-    "STM32/images/21.png",
-    "STM32/images/18.png",
-    "STM32/images/17.png",
-    "STM32/按键抖动.md",
-    "STM32/images/16.png",
-    "STM32/STM32芯片系统结构.md",
-    "STM32/images/15.png",
-    "STM32/STM32芯片命名规则.md",
-    "STM32/images/14.png",
-    "STM32/STM32片上资源.md",
-    "STM32/中断系统.md",
-    "STM32/旋转编码器.md",
-    "STM32/对射式红外传感器.md",
+    "algorithm/images/15.png",
+    "algorithm/images/14.png",
+    "algorithm/Depth-First Search.md",
+    "algorithm/Breadth-First Search.md",
+    "algorithm/images/13.png",
+    "algorithm/images/12.png",
+    "algorithm/images/11.png",
+    "Diary/2021-07-30.md",
+    "frontend/阿里钉钉团队前端考试卷.md",
+    "frontend/实现JS compiler.md",
+    "frontend/输入URL，按下Enter之后，发生了什么。.md",
+    "frontend/images/21.jpg",
+    "frontend/images/20.jpg",
+    "frontend/images/19.jpg",
+    "frontend/images/18.jpg",
+    "frontend/images/17.jpg",
+    "frontend/images/16.jpg",
+    "frontend/Event Loop.md",
+    "frontend/React源码的文件结构.md",
+    "frontend/Fiber架构的实现原理.md",
+    "frontend/Fiber架构的工作原理.md",
+    "frontend/Fiber架构的心智模型.md",
+    "frontend/React-新的架构.md",
+    "frontend/React-旧的架构.md",
+    "Diary/2020-09-21.md",
+    "Diary/未命名 1.md",
+    "Diary/2020-08-29.md",
+    "Diary/2020-08-12.md",
+    "Diary/2020-08-11.md",
+    "Diary/2020-08-07.md",
+    "Diary/2020-08-04.md",
+    "Diary/2020-07-23.md",
+    "Diary/2020-07-03.md",
+    "Diary/2020-06-24.md",
+    "Diary/2020-06-20.md",
+    "Diary/2020-06-19.md",
+    "algorithm/images",
+    "algorithm",
+    "frontend/images",
+    "frontend",
+    "紫微斗数",
+    "股票",
+    "锂电",
     "STM32/images",
     "STM32",
-    "Diary/2023-09-02.md",
-    "Diary/2023-09-01.md",
-    "Diary/未命名.md",
     "未命名.canvas",
     "Diary"
   ]
