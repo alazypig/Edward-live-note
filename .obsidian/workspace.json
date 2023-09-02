@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7f8dcddf6aa66033",
+        "id": "3b43cda17f8dfb4a",
         "type": "tabs",
         "children": [
           {
-            "id": "3c03c0a95d564878",
+            "id": "28e64ea091e609ec",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -141,6 +141,27 @@
   },
   "active": "1affc0cfa6724429",
   "lastOpenFiles": [
+    "STM32/GPIO位结构.md",
+    "STM32/images/23.png",
+    "STM32/GPIO输入.md",
+    "STM32/images/20.png",
+    "STM32/images/19.png",
+    "STM32/images/22.png",
+    "STM32/images/21.png",
+    "STM32/images/18.png",
+    "STM32/images/17.png",
+    "STM32/按键抖动.md",
+    "STM32/images/16.png",
+    "STM32/STM32芯片系统结构.md",
+    "STM32/images/15.png",
+    "STM32/STM32芯片命名规则.md",
+    "STM32/images/14.png",
+    "STM32/STM32片上资源.md",
+    "STM32/中断系统.md",
+    "STM32/旋转编码器.md",
+    "STM32/对射式红外传感器.md",
+    "STM32/images",
+    "STM32",
     "Diary/2023-09-02.md",
     "Diary/2023-09-01.md",
     "Diary/未命名.md",
