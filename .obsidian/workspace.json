@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ee08673578207909",
+        "id": "af96f03bf29bd102",
         "type": "tabs",
         "children": [
           {
-            "id": "5409fb298f0f7333",
+            "id": "ab2bc8335d398a1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithm/Breadth-First Search.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c8cb6d8a6cefada4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8b2fd0058b127c39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithm/Breadth-First Search.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -103,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm/Breadth-First Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithm/Breadth-First Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "algorithm/Breadth-First Search.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -165,12 +139,13 @@
       "daily-notes-editor:Open Daily Note Editor": false
     }
   },
-  "active": "5409fb298f0f7333",
+  "active": "ab2bc8335d398a1c",
   "lastOpenFiles": [
+    "Diary/2023-09-02.md",
+    "algorithm/Breadth-First Search.md",
     "algorithm/images/15.png",
     "algorithm/images/14.png",
     "algorithm/Depth-First Search.md",
-    "algorithm/Breadth-First Search.md",
     "algorithm/images/13.png",
     "algorithm/images/12.png",
     "algorithm/images/11.png",
@@ -183,7 +158,6 @@
     "frontend/images/19.jpg",
     "frontend/images/18.jpg",
     "frontend/images/17.jpg",
-    "frontend/images/16.jpg",
     "frontend/Event Loop.md",
     "frontend/React源码的文件结构.md",
     "frontend/Fiber架构的实现原理.md",
