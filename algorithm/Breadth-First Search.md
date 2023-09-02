@@ -2,11 +2,11 @@
 
 开始 ->一次转化可以到达的状态 -> 二次转化可以到达的状态 -> ...。对于同一个状态，BFS只访问一次。复杂度为O(状态数量 * 转移方式)
 
-![[algorithm/images/14.png]]
+![[./images/14.png]]
 
 eg：
 
-![[algorithm/images/15.png]]
+![[./images/15.png]]
 
 代码实现：
 

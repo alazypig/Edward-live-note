@@ -11,8 +11,12 @@
             "id": "ab2bc8335d398a1c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "frontend/输入URL，按下Enter之后，发生了什么。.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": ".jpg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "frontend/输入URL，按下Enter之后，发生了什么。.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "frontend/输入URL，按下Enter之后，发生了什么。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "frontend/输入URL，按下Enter之后，发生了什么。.md"
+              }
             }
           }
         ]
@@ -141,11 +150,11 @@
   },
   "active": "ab2bc8335d398a1c",
   "lastOpenFiles": [
-    "Diary/2023-09-02.md",
+    "algorithm/Depth-First Search.md",
     "algorithm/Breadth-First Search.md",
+    "Diary/2023-09-02.md",
     "algorithm/images/15.png",
     "algorithm/images/14.png",
-    "algorithm/Depth-First Search.md",
     "algorithm/images/13.png",
     "algorithm/images/12.png",
     "algorithm/images/11.png",

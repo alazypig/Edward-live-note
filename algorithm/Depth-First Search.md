@@ -2,11 +2,11 @@
 
 eg：
 
-![[algorithm/images/11.png]]
+![[./images/11.png]]
 
 每一个分量都可以分为加与不加两种状态。
 
-![[algorithm/images/12.png]]
+![[./images/12.png]]
 
 代码实现：
 
@@ -39,7 +39,7 @@ console.log(test([1, 2, 4, 7], 15))
   
 eg2:
 
-![[algorithm/images/13.png]]
+![[./images/13.png]]
 
 代码实现：
 

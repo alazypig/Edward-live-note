@@ -4,7 +4,7 @@
 
 2. 采用递归或者迭代的方式，向根域名服务器、顶级域名服务器、权威域名服务器发起请求。
 
-![[16.jpg]]
+![[./images/16.jpg]]
 
 3. 找到一组ip，返回给浏览器。
 
@@ -92,7 +92,7 @@
 - 一组专用线程
 - 一个通用线程池
 
-![[17.jpg]]
+![[./images/17.jpg]]
 
 Chromium 支持多种不同的方式管理 Renderer 进程，不仅仅是每一个开启的 Tab 页面，iframe 页面也包括在内，每个 Renderer 进程是一个独立的沙箱，相互之间隔离不受影响。
 
@@ -107,13 +107,13 @@ Chromium 支持多种不同的方式管理 Renderer 进程，不仅仅是每一�
 
 页面的解析工作是在 Renderer 进程中进行的，Renderer 进程通过在主线程中持有的 Blink 实例边接收边解析 HTML 内容（图 6），每次从网络缓冲区中读取 8KB 以内的数据。浏览器自上而下逐行解析 HTML 内容，经过词法分析、语法分析，构建 DOM 树。当遇到外部 CSS 链接时，主线程调用网络请求模块异步获取资源，不阻塞而继续构建 DOM 树。当 CSS 下载完毕后，主线程在合适的时机解析 CSS 内容，经过词法分析、语法分析，构建 CSSOM 树。浏览器结合 DOM 树和 CSSOM 树构建 Render 树，并计算布局属性，每个 Node 的几何属性和在坐标系中的位置，最后进行绘制展示在屏幕上。当遇到外部 JS 链接时，主线程调用网络请求模块异步获取资源，由于 JS 可能会修改 DOM 树和 CSSOM 树而造成回流和重绘，此时 DOM 树的构建是处于阻塞状态的。但主线程并不会挂起，浏览器会使用一个轻量级的扫描器去发现后续需要下载的外部资源，提前发起网络请求，而脚本内部的资源不会识别，比如 `document.write`。当 JS 下载完毕后，浏览器调用 V8 引擎在 Script Streamer 线程中解析、编译 JS 内容，并在主线程中执行（图 7）。
 
-![[18.jpg]]
+![[./images/18.jpg]]
 
 **渲染流程**
 
 当 DOM 树构建完毕后，还需经过好几次转换，它们有多种中间表示（图 8）。首先计算布局、绘图样式，转换为 RenderObject 树（也叫 Render 树）。再转换为 RenderLayer 树，当 RenderObject 拥有同一个坐标系（比如 canvas、absolute）时，它们会合并为一个 RenderLayer，这一步由 CPU 负责合成。接着转换为 GraphicsLayer 树，当 RenderLayer 满足合成层条件（比如 transform，熟知的硬件加速）时，会有自己的 GraphicsLayer，否则与父节点合并，这一步同样由 CPU 负责合成。最后，每个 GraphicsLayer 都有一个 GraphicsContext 对象，负责将层绘制成位图作为纹理上传给 GPU，由 GPU 负责合成多个纹理，最终显示在屏幕上。
 
-![[19.jpg]]
+![[./images/19.jpg]]
 
 另外，为了提升渲染性能效率，浏览器会有专用的 Compositor 线程来负责层合成（图 9），同时负责处理部分交互事件（比如滚动、触摸），直接响应 UI 更新而不阻塞主线程。主线程把 RenderLayer 树同步给 Compositor 线程，由它开启多个 Rasterizer 线程，进行光栅化处理，在可视区域以瓦片为单位把顶点数据转换为片元，最后交付给 GPU 进行最终合成渲染。
 
@@ -121,12 +121,12 @@ Chromium 支持多种不同的方式管理 Renderer 进程，不仅仅是每一�
 
 页面从发起请求开始，结束于跳转、刷新或关闭，会经过多次状态变化和事件通知，因此了解整个过程的生命周期非常有必要。浏览器提供了 [Navigation Timing](https://link.zhihu.com/?target=https%3A//www.w3.org/TR/navigation-timing-2/) 和 [Resource Timing](https://link.zhihu.com/?target=https%3A//www.w3.org/TR/resource-timing-2/) 两种 API 来记录每一个资源的事件发生时间点，你可以用它来收集 RUM（Real User Monitoring，真实用户监控）数据，发送给后端监控服务，综合分析页面性能来不断改善用户体验。图 10 表示 HTML 资源加载的事件记录全过程，而中间黄色部分表示其它资源（CSS、JS、IMG、XHR）加载事件记录过程，它们都可以通过调用 `window.performance.getEntries()` 来获取具体指标数据。
 
-![[20.jpg]]
+![[./images/20.jpg]]
 
 图 10：页面加载事件记录流程
 
 衡量一个页面性能的方式有很多，但能给用户带来直接感受的是页面何时渲染完成、何时可交互、何时加载完成。其中，有两个非常重要的生命周期事件，DOMContentLoaded 事件表示 DOM 树构建完毕，可以安全地访问 DOM 树所有 Node 节点、绑定事件等等；load 事件表示所有资源都加载完毕，图片、背景、内容都已经完成渲染，页面处于可交互状态。但是迄今为止浏览器并不能像 Android 和 iOS app 一样完全掌控应用的状态，在前后台切换的时候，重新分配资源，合理地利用内存。实际上，现代浏览器都已经在做这方面的相关优化，并且自 Chrome 68 以后提供了[Page Lifecycle](https://link.zhihu.com/?target=https%3A//wicg.github.io/page-lifecycle/spec.html) API，定义了全新的浏览器生命周期（图 11），让开发者可以构建更出色的应用。
 
-![[21.jpg]]
+![[./images/21.jpg]]
 
 现在，你可以通过给 `window` 和 `document` 绑定上所有生命周期监听事件（图 12），来监测页面切换、用户交互行为所触发的状态变化过程。不过，开发者只能感知事件在何时发生，不能直接获取某一刻的页面状态（图 11 中的 STATE）。即使如此，利用这个 API，也可以让脚本在合适的时机执行某项任务或进行界面 UI 反馈。图 11：新版页面生命周期
