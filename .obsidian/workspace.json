@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a47a5d9af391b694",
+        "id": "7b14c637ce7fc7ae",
         "type": "tabs",
         "children": [
           {
-            "id": "52273dfcd3d22eea",
+            "id": "fa96bd3b7a1a05d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm/Breadth-First Search.md",
+                "file": "Diary/2023-09-04.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "ba6118e6e3a85c7d",
+        "id": "363ac4bd32591a11",
         "type": "tabs",
         "children": [
           {
-            "id": "4b3cc158b9da4aab",
+            "id": "867e48fc23438ed8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm/Depth-First Search.md",
+                "file": "Diary/2023-09-04.md",
                 "mode": "preview",
                 "source": true
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".jpg",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm/Breadth-First Search.md",
+                "file": "Diary/2023-09-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithm/Breadth-First Search.md",
+                "file": "Diary/2023-09-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithm/Breadth-First Search.md"
+                "file": "Diary/2023-09-04.md"
               }
             }
           }
@@ -166,45 +165,45 @@
       "daily-notes-editor:Open Daily Note Editor": false
     }
   },
-  "active": "52273dfcd3d22eea",
+  "active": "fa96bd3b7a1a05d9",
   "lastOpenFiles": [
+    "Diary/2023-09-01.md",
+    "Diary/images/1.png",
+    "Diary/images",
+    "Diary/未命名 1.md",
+    "Diary/2023-09-04.md",
+    "Diary/未命名.md",
+    "algorithm/优先队列-汽车加油问题.md",
+    "Diary/2023-09-02.md",
+    "algorithm/DP-完全背包.md",
+    "algorithm/images/35.png",
+    "algorithm/images/34.png",
+    "algorithm/images/33.png",
+    "algorithm/images/32.png",
+    "algorithm/DP-最长公共子序列.md",
+    "algorithm/images/31.png",
+    "algorithm/images/30.png",
+    "algorithm/images/29.png",
+    "algorithm/贪心-Fence Repair.md",
+    "algorithm/DP-01背包.md",
+    "algorithm/images/28.png",
+    "algorithm/images/27.png",
+    "frontend/移动端适配 Layout.js.md",
+    "algorithm/贪心-Saruman's Army.md",
+    "algorithm/贪心-字典序最小问题.md",
+    "algorithm/贪心.md",
+    "Diary/2021-07-30.md",
     "algorithm/Depth-First Search.md",
+    "images/14.jpg.md",
     "algorithm/Breadth-First Search.md",
     "frontend/输入URL，按下Enter之后，发生了什么。.md",
-    "images/14.jpg.md",
     "images",
-    "Diary/2023-09-02.md",
-    "algorithm/images/15.png",
-    "algorithm/images/14.png",
-    "algorithm/images/13.png",
-    "algorithm/images/12.png",
-    "algorithm/images/11.png",
-    "Diary/2021-07-30.md",
     "frontend/阿里钉钉团队前端考试卷.md",
     "frontend/实现JS compiler.md",
-    "frontend/images/21.jpg",
-    "frontend/images/20.jpg",
-    "frontend/images/19.jpg",
-    "frontend/images/18.jpg",
-    "frontend/images/17.jpg",
     "frontend/Event Loop.md",
     "frontend/React源码的文件结构.md",
     "frontend/Fiber架构的实现原理.md",
     "frontend/Fiber架构的工作原理.md",
-    "frontend/Fiber架构的心智模型.md",
-    "frontend/React-新的架构.md",
-    "frontend/React-旧的架构.md",
-    "Diary/2020-09-21.md",
-    "Diary/未命名 1.md",
-    "Diary/2020-08-29.md",
-    "Diary/2020-08-12.md",
-    "Diary/2020-08-11.md",
-    "Diary/2020-08-07.md",
-    "Diary/2020-08-04.md",
-    "Diary/2020-07-23.md",
-    "Diary/2020-07-03.md",
-    "Diary/2020-06-24.md",
-    "Diary/2020-06-20.md",
     "algorithm/images",
     "algorithm",
     "frontend/images",
@@ -213,7 +212,6 @@
     "股票",
     "锂电",
     "STM32/images",
-    "STM32",
     "未命名.canvas"
   ]
 }
