@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "#f476b3",
+  "theme": "moonstone",
+  "translucency": false,
+  "cssTheme": "Sanctum"
 }

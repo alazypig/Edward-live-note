@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7b14c637ce7fc7ae",
+        "id": "ca06ec96195b147e",
         "type": "tabs",
         "children": [
           {
-            "id": "fa96bd3b7a1a05d9",
+            "id": "2d8c7875e16e18a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/2023-09-04.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "363ac4bd32591a11",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "867e48fc23438ed8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/2023-09-04.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -98,35 +76,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a6be14fa4145c3f6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Diary/2023-09-04.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "95c8940bef04dbdf",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Diary/2023-09-04.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "612ceb5c432998d7",
             "type": "leaf",
             "state": {
@@ -142,12 +91,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Diary/2023-09-04.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "39cbb07113d2e45a",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -165,14 +121,14 @@
       "daily-notes-editor:Open Daily Note Editor": false
     }
   },
-  "active": "fa96bd3b7a1a05d9",
+  "active": "2d8c7875e16e18a7",
   "lastOpenFiles": [
+    "Diary/2023-09-06.md",
+    "Diary/2023-09-04.md",
     "Diary/2023-09-01.md",
     "Diary/images/1.png",
     "Diary/images",
     "Diary/未命名 1.md",
-    "Diary/2023-09-04.md",
-    "Diary/未命名.md",
     "algorithm/优先队列-汽车加油问题.md",
     "Diary/2023-09-02.md",
     "algorithm/DP-完全背包.md",

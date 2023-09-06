@@ -1,3 +1,6 @@
 {
-  "livePreview": false
+  "livePreview": false,
+  "propertiesInDocument": "visible",
+  "vimMode": true,
+  "showLineNumber": true
 }
