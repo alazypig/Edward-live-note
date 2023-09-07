@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ca06ec96195b147e",
+        "id": "c888c35fab90b883",
         "type": "tabs",
         "children": [
           {
-            "id": "2d8c7875e16e18a7",
+            "id": "24371e095d227c4c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -76,6 +76,33 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a6be14fa4145c3f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "95c8940bef04dbdf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
             "id": "612ceb5c432998d7",
             "type": "leaf",
             "state": {
@@ -93,17 +120,8 @@
               "type": "outline",
               "state": {}
             }
-          },
-          {
-            "id": "39cbb07113d2e45a",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,14 +139,17 @@
       "daily-notes-editor:Open Daily Note Editor": false
     }
   },
-  "active": "2d8c7875e16e18a7",
+  "active": "24371e095d227c4c",
   "lastOpenFiles": [
+    "Diary/2020-05-28.md",
     "Diary/2023-09-06.md",
+    "Diary/2023-09-07.md",
     "Diary/2023-09-04.md",
     "Diary/2023-09-01.md",
     "Diary/images/1.png",
     "Diary/images",
     "Diary/未命名 1.md",
+    "Diary/未命名.md",
     "algorithm/优先队列-汽车加油问题.md",
     "Diary/2023-09-02.md",
     "algorithm/DP-完全背包.md",
@@ -158,8 +179,6 @@
     "frontend/实现JS compiler.md",
     "frontend/Event Loop.md",
     "frontend/React源码的文件结构.md",
-    "frontend/Fiber架构的实现原理.md",
-    "frontend/Fiber架构的工作原理.md",
     "algorithm/images",
     "algorithm",
     "frontend/images",
