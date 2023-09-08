@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c888c35fab90b883",
+        "id": "be9c835b1d439ff6",
         "type": "tabs",
         "children": [
           {
-            "id": "24371e095d227c4c",
+            "id": "9d860e556461cb3a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,8 +139,9 @@
       "daily-notes-editor:Open Daily Note Editor": false
     }
   },
-  "active": "24371e095d227c4c",
+  "active": "1affc0cfa6724429",
   "lastOpenFiles": [
+    "Diary/2023-09-08.md",
     "Diary/2020-05-28.md",
     "Diary/2023-09-06.md",
     "Diary/2023-09-07.md",
@@ -178,7 +179,6 @@
     "frontend/阿里钉钉团队前端考试卷.md",
     "frontend/实现JS compiler.md",
     "frontend/Event Loop.md",
-    "frontend/React源码的文件结构.md",
     "algorithm/images",
     "algorithm",
     "frontend/images",
