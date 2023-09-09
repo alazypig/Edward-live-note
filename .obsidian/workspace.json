@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be9c835b1d439ff6",
+        "id": "7a446d1a1590e60b",
         "type": "tabs",
         "children": [
           {
-            "id": "9d860e556461cb3a",
+            "id": "bc61aaeb6c277087",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,15 +139,18 @@
       "daily-notes-editor:Open Daily Note Editor": false
     }
   },
-  "active": "1affc0cfa6724429",
+  "active": "bc61aaeb6c277087",
   "lastOpenFiles": [
+    "Diary/2023-09-09.md",
+    "书籍/《穷爸爸富爸爸》.md",
+    "images/14.jpg.md",
+    "Diary/images/1.png",
     "Diary/2023-09-08.md",
     "Diary/2020-05-28.md",
     "Diary/2023-09-06.md",
     "Diary/2023-09-07.md",
     "Diary/2023-09-04.md",
     "Diary/2023-09-01.md",
-    "Diary/images/1.png",
     "Diary/images",
     "Diary/未命名 1.md",
     "Diary/未命名.md",
@@ -172,19 +175,16 @@
     "algorithm/贪心.md",
     "Diary/2021-07-30.md",
     "algorithm/Depth-First Search.md",
-    "images/14.jpg.md",
     "algorithm/Breadth-First Search.md",
     "frontend/输入URL，按下Enter之后，发生了什么。.md",
     "images",
     "frontend/阿里钉钉团队前端考试卷.md",
-    "frontend/实现JS compiler.md",
-    "frontend/Event Loop.md",
     "algorithm/images",
     "algorithm",
     "frontend/images",
     "frontend",
     "紫微斗数",
-    "股票",
+    "书籍",
     "锂电",
     "STM32/images",
     "未命名.canvas"

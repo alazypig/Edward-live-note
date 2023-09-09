@@ -2,5 +2,6 @@
   "livePreview": false,
   "propertiesInDocument": "visible",
   "vimMode": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "attachmentFolderPath": "images"
 }
