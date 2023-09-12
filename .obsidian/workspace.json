@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7a446d1a1590e60b",
+        "id": "b05b7a1097e52ecc",
         "type": "tabs",
         "children": [
           {
-            "id": "bc61aaeb6c277087",
+            "id": "1ff41c30b25af023",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,8 +139,10 @@
       "daily-notes-editor:Open Daily Note Editor": false
     }
   },
-  "active": "bc61aaeb6c277087",
+  "active": "1ff41c30b25af023",
   "lastOpenFiles": [
+    "Diary/2023-09-12.md",
+    "Diary/2023-09-11.md",
     "Diary/2023-09-09.md",
     "书籍/《穷爸爸富爸爸》.md",
     "images/14.jpg.md",
@@ -153,7 +155,6 @@
     "Diary/2023-09-01.md",
     "Diary/images",
     "Diary/未命名 1.md",
-    "Diary/未命名.md",
     "algorithm/优先队列-汽车加油问题.md",
     "Diary/2023-09-02.md",
     "algorithm/DP-完全背包.md",
@@ -178,7 +179,6 @@
     "algorithm/Breadth-First Search.md",
     "frontend/输入URL，按下Enter之后，发生了什么。.md",
     "images",
-    "frontend/阿里钉钉团队前端考试卷.md",
     "algorithm/images",
     "algorithm",
     "frontend/images",
