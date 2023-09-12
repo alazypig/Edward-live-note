@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "50b29ee194e2a3b6",
+        "id": "9d27592d1d64e3f7",
         "type": "tabs",
         "children": [
           {
-            "id": "48ff6a3f96d185b5",
+            "id": "e8f8ff7e8dcaec05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2023-09-12.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Diary/2023-09-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Diary/2023-09-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Diary/2023-09-12.md"
+              }
             }
           }
         ]
@@ -139,7 +147,7 @@
       "daily-notes-editor:Open Daily Note Editor": false
     }
   },
-  "active": "48ff6a3f96d185b5",
+  "active": "e8f8ff7e8dcaec05",
   "lastOpenFiles": [
     "Diary/2023-09-12.md",
     "frontend/Fiber架构的心智模型.md",
