@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b05b7a1097e52ecc",
+        "id": "50b29ee194e2a3b6",
         "type": "tabs",
         "children": [
           {
-            "id": "1ff41c30b25af023",
+            "id": "48ff6a3f96d185b5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,9 +139,19 @@
       "daily-notes-editor:Open Daily Note Editor": false
     }
   },
-  "active": "1ff41c30b25af023",
+  "active": "48ff6a3f96d185b5",
   "lastOpenFiles": [
     "Diary/2023-09-12.md",
+    "frontend/Fiber架构的心智模型.md",
+    "frontend/React源码的文件结构.md",
+    "algorithm/DP-01背包.md",
+    "algorithm/Depth-First Search.md",
+    "algorithm/Breadth-First Search.md",
+    "algorithm/优先队列-汽车加油问题.md",
+    "algorithm/贪心.md",
+    "锂电/锂电目录.md",
+    "紫微斗数/紫微斗数目录.md",
+    "紫微斗数/命格.md",
     "Diary/2023-09-11.md",
     "Diary/2023-09-09.md",
     "书籍/《穷爸爸富爸爸》.md",
@@ -155,7 +165,6 @@
     "Diary/2023-09-01.md",
     "Diary/images",
     "Diary/未命名 1.md",
-    "algorithm/优先队列-汽车加油问题.md",
     "Diary/2023-09-02.md",
     "algorithm/DP-完全背包.md",
     "algorithm/images/35.png",
@@ -167,17 +176,8 @@
     "algorithm/images/30.png",
     "algorithm/images/29.png",
     "algorithm/贪心-Fence Repair.md",
-    "algorithm/DP-01背包.md",
     "algorithm/images/28.png",
     "algorithm/images/27.png",
-    "frontend/移动端适配 Layout.js.md",
-    "algorithm/贪心-Saruman's Army.md",
-    "algorithm/贪心-字典序最小问题.md",
-    "algorithm/贪心.md",
-    "Diary/2021-07-30.md",
-    "algorithm/Depth-First Search.md",
-    "algorithm/Breadth-First Search.md",
-    "frontend/输入URL，按下Enter之后，发生了什么。.md",
     "images",
     "algorithm/images",
     "algorithm",

@@ -79,3 +79,8 @@ export let REACT_FRAGMENT_TYPE = 0xeacb;
 我们需要重点关注react-reconciler，在接下来源码学习中 80%的代码量都来自这个包。
 
 虽然他是一个实验性的包，内部的很多功能在正式版本中还未开放。但是他一边对接Scheduler，一边对接不同平台的Renderer，构成了整个 React16 的架构体系。
+
+### 其他文章
+
+- [[React-旧的架构]]
+- [[React-新的架构]]
