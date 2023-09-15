@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1da8230e37feec2a",
+        "id": "26b6f526c3a51c88",
         "type": "tabs",
         "children": [
           {
-            "id": "cbd8c752afe67793",
+            "id": "48314db42ee013d5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,8 +149,9 @@
       "daily-notes-editor:Open Daily Note Editor": false
     }
   },
-  "active": "cbd8c752afe67793",
+  "active": "48314db42ee013d5",
   "lastOpenFiles": [
+    "2023-09-15.md",
     "Diary/2023-09-14.md",
     "Diary/2023-09-13.md",
     "Diary/2023-09-12.md",
@@ -178,7 +179,6 @@
     "Diary/images",
     "Diary/未命名 1.md",
     "Diary/2023-09-02.md",
-    "algorithm/DP-完全背包.md",
     "algorithm/images/35.png",
     "algorithm/images/34.png",
     "algorithm/images/33.png",
