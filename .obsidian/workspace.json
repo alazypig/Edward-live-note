@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9f325248e0954bff",
+        "id": "5879e51ed6eaf78b",
         "type": "tabs",
         "children": [
           {
-            "id": "ee4a7d1dc0c055ff",
+            "id": "c2ac0c72c4707ffe",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,7 +149,7 @@
       "daily-notes-editor:Open Daily Note Editor": false
     }
   },
-  "active": "ee4a7d1dc0c055ff",
+  "active": "c2ac0c72c4707ffe",
   "lastOpenFiles": [
     "Diary/2023-09-18.md",
     "Diary/2023-09-16.md",
