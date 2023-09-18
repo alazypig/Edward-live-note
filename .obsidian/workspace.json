@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1a4c0fd11dd13fb0",
+        "id": "9f325248e0954bff",
         "type": "tabs",
         "children": [
           {
-            "id": "901580e7aa6edda5",
+            "id": "ee4a7d1dc0c055ff",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,9 +149,14 @@
       "daily-notes-editor:Open Daily Note Editor": false
     }
   },
-  "active": "901580e7aa6edda5",
+  "active": "ee4a7d1dc0c055ff",
   "lastOpenFiles": [
+    "Diary/2023-09-18.md",
     "Diary/2023-09-16.md",
+    "Diary/images/1.png",
+    "frontend/images/2.jpg",
+    "frontend/images/1.jpg",
+    "images/14.jpg.md",
     "Diary/2023-09-15.md",
     "Diary/2023-09-14.md",
     "Diary/2023-09-13.md",
@@ -169,16 +174,12 @@
     "Diary/2023-09-11.md",
     "Diary/2023-09-09.md",
     "书籍/《穷爸爸富爸爸》.md",
-    "images/14.jpg.md",
-    "Diary/images/1.png",
     "Diary/2023-09-08.md",
     "Diary/2020-05-28.md",
     "Diary/2023-09-06.md",
     "Diary/2023-09-07.md",
     "Diary/2023-09-04.md",
-    "Diary/2023-09-01.md",
     "Diary/images",
-    "Diary/未命名 1.md",
     "algorithm/images/35.png",
     "algorithm/images/34.png",
     "algorithm/images/33.png",
@@ -186,8 +187,6 @@
     "algorithm/images/31.png",
     "algorithm/images/30.png",
     "algorithm/images/29.png",
-    "algorithm/images/28.png",
-    "algorithm/images/27.png",
     "images",
     "algorithm/images",
     "algorithm",
