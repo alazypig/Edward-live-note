@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fae53ac958386c8d",
+        "id": "5e881ae0e7830eff",
         "type": "tabs",
         "children": [
           {
-            "id": "fcab3346aac7b08c",
+            "id": "e4ea75ded1edfe28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2023-09-20.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Diary/2023-09-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Diary/2023-09-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Diary/2023-09-20.md"
+              }
             }
           },
           {
@@ -149,8 +157,9 @@
       "daily-notes-editor:Open Daily Note Editor": false
     }
   },
-  "active": "fcab3346aac7b08c",
+  "active": "e4ea75ded1edfe28",
   "lastOpenFiles": [
+    "Diary/2023-09-20.md",
     "书籍/《经济学原理》第七版-宏观经济学分册.md",
     "Diary/2023-09-19.md",
     "Diary/2023-09-18.md",
@@ -179,7 +188,6 @@
     "Diary/2023-09-08.md",
     "Diary/2020-05-28.md",
     "Diary/2023-09-06.md",
-    "Diary/2023-09-07.md",
     "Diary/images",
     "algorithm/images/35.png",
     "algorithm/images/34.png",
