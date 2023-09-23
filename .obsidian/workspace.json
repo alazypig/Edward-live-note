@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a09f473136693fc8",
+        "id": "8c08fc8eb5442bdd",
         "type": "tabs",
         "children": [
           {
-            "id": "64799b6107339394",
+            "id": "faac0ff19f331a0d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,10 +149,12 @@
       "daily-notes-editor:Open Daily Note Editor": false
     }
   },
-  "active": "64799b6107339394",
+  "active": "faac0ff19f331a0d",
   "lastOpenFiles": [
-    "书籍/《经济学原理》第七版-宏观经济学分册.md",
+    "Diary/2023-09-23.md",
+    "Diary/2023-09-22.md",
     "Diary/2023-09-21.md",
+    "书籍/《经济学原理》第七版-宏观经济学分册.md",
     "Diary/2023-09-20.md",
     "Diary/2023-09-19.md",
     "Diary/2023-09-18.md",
@@ -178,8 +180,6 @@
     "Diary/2023-09-11.md",
     "Diary/2023-09-09.md",
     "书籍/《穷爸爸富爸爸》.md",
-    "Diary/2023-09-08.md",
-    "Diary/2020-05-28.md",
     "Diary/images",
     "algorithm/images/35.png",
     "algorithm/images/34.png",
