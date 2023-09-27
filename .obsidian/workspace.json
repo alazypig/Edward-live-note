@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c08fc8eb5442bdd",
+        "id": "a6280ffdd4009b80",
         "type": "tabs",
         "children": [
           {
-            "id": "faac0ff19f331a0d",
+            "id": "5b0e668dfe336568",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,9 +149,11 @@
       "daily-notes-editor:Open Daily Note Editor": false
     }
   },
-  "active": "faac0ff19f331a0d",
+  "active": "5b0e668dfe336568",
   "lastOpenFiles": [
+    "Diary/2023-09-27.md",
     "Diary/2023-09-23.md",
+    "Diary/2023-09-25.md",
     "Diary/2023-09-22.md",
     "Diary/2023-09-21.md",
     "书籍/《经济学原理》第七版-宏观经济学分册.md",
@@ -178,8 +180,6 @@
     "紫微斗数/紫微斗数目录.md",
     "紫微斗数/命格.md",
     "Diary/2023-09-11.md",
-    "Diary/2023-09-09.md",
-    "书籍/《穷爸爸富爸爸》.md",
     "Diary/images",
     "algorithm/images/35.png",
     "algorithm/images/34.png",
