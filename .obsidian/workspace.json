@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1df862e0867cce86",
+        "id": "9dcacd781906eb9e",
         "type": "tabs",
         "children": [
           {
-            "id": "086714d2465fbb02",
+            "id": "133e1685343ce135",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,9 +149,10 @@
       "daily-notes-editor:Open Daily Note Editor": false
     }
   },
-  "active": "086714d2465fbb02",
+  "active": "1affc0cfa6724429",
   "lastOpenFiles": [
-    "2023-09-28.md",
+    "Diary/2023-10-05.md",
+    "Diary/2023-09-28.md",
     "Diary/2023-09-27.md",
     "Diary/2023-09-23.md",
     "Diary/2023-09-25.md",
@@ -179,7 +180,6 @@
     "algorithm/贪心.md",
     "锂电/锂电目录.md",
     "紫微斗数/紫微斗数目录.md",
-    "紫微斗数/命格.md",
     "Diary/images",
     "algorithm/images/35.png",
     "algorithm/images/34.png",
