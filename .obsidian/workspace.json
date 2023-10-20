@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "785ba5c63938d255",
+    "id": "3da9f3aadc5e5af4",
     "type": "split",
     "children": [
       {
-        "id": "1f77e892e784cf7a",
+        "id": "52f7994e401059dd",
         "type": "tabs",
         "children": [
           {
-            "id": "0ddab21b5e3fe742",
+            "id": "20ab1876c98b041a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bb893203d738f3f3",
+    "id": "ac1a90caefe6153c",
     "type": "split",
     "children": [
       {
-        "id": "2bd82e63b3177e0e",
+        "id": "ae3fb9c494232cd6",
         "type": "tabs",
         "children": [
           {
-            "id": "1affc0cfa6724429",
+            "id": "fe94a064ed1352a0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "1076440816f26b01",
+            "id": "60efacaeab8601a1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "61c6fc74a513052d",
+            "id": "c68b747aaa2cb450",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "3f4f69fc7d99beec",
+    "id": "eb6497271f14c361",
     "type": "split",
     "children": [
       {
-        "id": "fe393c99acba0ad0",
+        "id": "63a17052d5024b54",
         "type": "tabs",
         "children": [
           {
-            "id": "a6be14fa4145c3f6",
+            "id": "1f9e99400cb74c15",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/images/1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,19 +92,18 @@
             }
           },
           {
-            "id": "95c8940bef04dbdf",
+            "id": "f5b918f52b670ee6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/images/1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "612ceb5c432998d7",
+            "id": "33f868cfccea3b17",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -116,23 +114,21 @@
             }
           },
           {
-            "id": "7fba9703e18703a7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Diary/images/1.png"
-              }
-            }
-          },
-          {
-            "id": "f1dcb4be75df2ef3",
+            "id": "033efe11147f2fad",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency"
               }
+            }
+          },
+          {
+            "id": "e6bfbdd6e3328263",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
             }
           }
         ]
@@ -144,63 +140,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes-editor:Open Daily Note Editor": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "daily-notes-editor:Open Daily Note Editor": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "1affc0cfa6724429",
-  "lastOpenFiles": [
-    "Diary/2023-10-08.md",
-    "Diary/2023-10-07.md",
-    "Diary/2023-09-22.md",
-    "Diary/2023-10-06.md",
-    "Diary/2023-10-05.md",
-    "2023-10-06.md",
-    "Diary/2023-09-28.md",
-    "Diary/2023-09-27.md",
-    "Diary/2023-09-23.md",
-    "Diary/2023-09-25.md",
-    "Diary/2023-09-21.md",
-    "书籍/《经济学原理》第七版-宏观经济学分册.md",
-    "Diary/2023-09-20.md",
-    "Diary/2023-09-19.md",
-    "Diary/2023-09-18.md",
-    "Diary/2023-09-16.md",
-    "Diary/images/1.png",
-    "frontend/images/2.jpg",
-    "frontend/images/1.jpg",
-    "images/14.jpg.md",
-    "Diary/2023-09-15.md",
-    "Diary/2023-09-14.md",
-    "Diary/2023-09-13.md",
-    "Diary/2023-09-12.md",
-    "frontend/Fiber架构的心智模型.md",
-    "frontend/React源码的文件结构.md",
-    "algorithm/DP-01背包.md",
-    "algorithm/Depth-First Search.md",
-    "algorithm/Breadth-First Search.md",
-    "Diary/images",
-    "algorithm/images/35.png",
-    "algorithm/images/34.png",
-    "algorithm/images/33.png",
-    "algorithm/images/32.png",
-    "algorithm/images/31.png",
-    "algorithm/images/30.png",
-    "algorithm/images/29.png",
-    "images",
-    "algorithm/images",
-    "algorithm",
-    "frontend/images",
-    "frontend",
-    "紫微斗数",
-    "书籍",
-    "锂电",
-    "STM32/images",
-    "未命名.canvas"
-  ]
+  "active": "20ab1876c98b041a",
+  "lastOpenFiles": []
 }
