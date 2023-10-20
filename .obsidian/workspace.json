@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "30c4207a7e8215eb",
+        "id": "1f77e892e784cf7a",
         "type": "tabs",
         "children": [
           {
-            "id": "8a117436fb8106b1",
+            "id": "0ddab21b5e3fe742",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/2023-10-08.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2023-10-08.md",
+                "file": "Diary/images/1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2023-10-08.md",
+                "file": "Diary/images/1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2023-10-08.md"
+                "file": "Diary/images/1.png"
               }
             }
           },
@@ -157,11 +153,11 @@
       "daily-notes-editor:Open Daily Note Editor": false
     }
   },
-  "active": "8a117436fb8106b1",
+  "active": "1affc0cfa6724429",
   "lastOpenFiles": [
+    "Diary/2023-10-08.md",
     "Diary/2023-10-07.md",
     "Diary/2023-09-22.md",
-    "Diary/2023-10-08.md",
     "Diary/2023-10-06.md",
     "Diary/2023-10-05.md",
     "2023-10-06.md",
