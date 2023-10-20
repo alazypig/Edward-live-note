@@ -3,5 +3,6 @@
   "propertiesInDocument": "visible",
   "vimMode": true,
   "showLineNumber": true,
-  "attachmentFolderPath": "images"
+  "attachmentFolderPath": "images",
+  "alwaysUpdateLinks": true
 }
