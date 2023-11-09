@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b91704a4ca20c83",
+        "id": "7ad3599814146e09",
         "type": "tabs",
         "children": [
           {
-            "id": "30fa8cfb1bba4ca8",
+            "id": "614d7e976bd23361",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,18 +149,23 @@
       "daily-notes-editor:Open Daily Note Editor": false
     }
   },
-  "active": "1affc0cfa6724429",
+  "active": "614d7e976bd23361",
   "lastOpenFiles": [
+    "Diary/2023-11-08.md",
+    "images/Pasted image 20231108183611.png",
+    "images/Pasted image 20231108183417.png",
+    "Diary/2023-10-10.md",
+    "笔记/frontend/移动端适配 Layout.js.md",
+    "笔记/frontend/输入URL，按下Enter之后，发生了什么。.md",
+    "书籍/《经济学原理》第七版-宏观经济学分册.md",
     "笔记/外贸类/各种支付方式对比.md",
     "笔记/外贸类",
     "笔记",
     "Diary/2023-10-20.md",
     "未命名.canvas",
-    "书籍/《经济学原理》第七版-宏观经济学分册.md",
     "Diary/2023-09-21.md",
     "书籍/《穷爸爸富爸爸》.md",
     "Diary/2023-10-11.md",
-    "Diary/2023-10-10.md",
     "Diary/2023-10-08.md",
     "Diary/2023-10-07.md",
     "Diary/2023-09-22.md",
@@ -179,17 +184,12 @@
     "笔记/frontend/images/2.jpg",
     "笔记/frontend/images/1.jpg",
     "images/14.jpg.md",
-    "Diary/2023-09-15.md",
-    "Diary/2023-09-14.md",
-    "Diary/2023-09-13.md",
     "Diary/images",
     "笔记/algorithm/images/35.png",
     "笔记/algorithm/images/34.png",
     "笔记/algorithm/images/33.png",
     "笔记/algorithm/images/32.png",
     "笔记/algorithm/images/31.png",
-    "笔记/algorithm/images/30.png",
-    "笔记/algorithm/images/29.png",
     "images",
     "笔记/algorithm/images",
     "笔记/algorithm",
