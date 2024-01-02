@@ -1,7 +1,7 @@
 {
   "livePreview": false,
   "propertiesInDocument": "visible",
-  "vimMode": true,
+  "vimMode": false,
   "showLineNumber": true,
   "attachmentFolderPath": "images",
   "alwaysUpdateLinks": true

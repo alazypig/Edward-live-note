@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52f7994e401059dd",
+        "id": "9feaaea7b62bd214",
         "type": "tabs",
         "children": [
           {
-            "id": "20ab1876c98b041a",
+            "id": "26cec65804c81912",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,6 +149,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "20ab1876c98b041a",
-  "lastOpenFiles": []
+  "active": "26cec65804c81912",
+  "lastOpenFiles": [
+    "总结/2023 总结.md",
+    "总结/2022 总结.md",
+    "书籍/《经济学原理》第七版-宏观经济学分册.md",
+    "总结/2021 观影记录.md",
+    "总结/2021 总结.md",
+    "Diary/2021-05-09.md",
+    "总结/2020 总结.md",
+    "Diary/2020-12-15.md",
+    "总结/2020-11 总结.md",
+    "总结/2020-10 总结.md",
+    "Diary/2021-10-31.md",
+    "总结",
+    "Diary/2021-11-24.md",
+    "Diary/2021-09-06.md",
+    "Diary/2022-07-26.md",
+    "Diary/2022-04-21.md",
+    "Diary/2022-03-31.md",
+    "Diary/2020-05-27.md",
+    "Diary/2023-09-27.md",
+    "笔记/frontend/Fiber架构的心智模型.md",
+    "笔记/frontend/Fiber架构的实现原理.md",
+    "笔记/frontend/Fiber架构的工作原理.md",
+    "笔记/frontend/CLS-Cumulative Layout Shift.md",
+    "Diary/2023-09-08.md",
+    "README.md",
+    "2023-11-29.md",
+    "Diary/2023-11-08.md",
+    "未命名.canvas"
+  ]
 }
