@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9feaaea7b62bd214",
+        "id": "b8ec1c57dd540237",
         "type": "tabs",
         "children": [
           {
-            "id": "26cec65804c81912",
+            "id": "f1dc0c8d43a10e7b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "笔记/speaking english/ɔː & ɑː.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "笔记/speaking english/ɔː & ɑː.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "笔记/speaking english/ɔː & ɑː.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -128,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "笔记/speaking english/ɔː & ɑː.md"
+              }
             }
           }
         ]
@@ -149,8 +159,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "26cec65804c81912",
+  "active": "f1dc0c8d43a10e7b",
   "lastOpenFiles": [
+    "笔记/speaking english/ɔː & ɑː.md",
+    "笔记/speaking english/ʌ.md",
+    "笔记/speaking english/schwa sound.md",
+    "笔记/speaking english",
     "总结/2023 总结.md",
     "总结/2022 总结.md",
     "书籍/《经济学原理》第七版-宏观经济学分册.md",
@@ -175,9 +189,6 @@
     "笔记/frontend/Fiber架构的工作原理.md",
     "笔记/frontend/CLS-Cumulative Layout Shift.md",
     "Diary/2023-09-08.md",
-    "README.md",
-    "2023-11-29.md",
-    "Diary/2023-11-08.md",
     "未命名.canvas"
   ]
 }
