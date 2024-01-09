@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/speaking english/æ.md",
+                "file": "笔记/speaking english/i & ɪ.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "07f2792794d55f8f",
+        "id": "53ec49e255635e53",
         "type": "tabs",
         "children": [
           {
-            "id": "5ec9285a671ca56b",
+            "id": "40dcd5738d11d008",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/speaking english/æ.md",
+                "file": "笔记/speaking english/i & ɪ.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/speaking english/æ.md",
+                "file": "笔记/speaking english/i & ɪ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/speaking english/æ.md",
+                "file": "笔记/speaking english/i & ɪ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/speaking english/æ.md"
+                "file": "笔记/speaking english/i & ɪ.md"
               }
             }
           }
@@ -179,10 +179,11 @@
   },
   "active": "f1dc0c8d43a10e7b",
   "lastOpenFiles": [
-    "笔记/speaking english/schwa sound.md",
     "笔记/speaking english/æ.md",
     "笔记/speaking english/e.md",
     "笔记/speaking english/ɔː & ɑː.md",
+    "笔记/speaking english/i & ɪ.md",
+    "笔记/speaking english/schwa sound.md",
     "笔记/speaking english/ʌ.md",
     "笔记/speaking english",
     "总结/2023 总结.md",
@@ -206,7 +207,6 @@
     "Diary/2023-09-27.md",
     "笔记/frontend/Fiber架构的心智模型.md",
     "笔记/frontend/Fiber架构的实现原理.md",
-    "笔记/frontend/Fiber架构的工作原理.md",
     "未命名.canvas"
   ]
 }
