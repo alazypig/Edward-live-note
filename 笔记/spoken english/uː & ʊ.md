@@ -1,0 +1,22 @@
+- `uː` 紧元音
+	- tooth `/tuːθ/`
+	- boom `/buːm/`
+	- goose `/ɡuːs/`
+	- food `/fuːd/`
+	- woo `/wuː/`
+	- fool `/fuːl/`
+	- pool `/puːl/`
+	- poo `/puː/`
+- `ʊ` 松元音
+	- look `/lʊk/`
+	- took `/tʊk/`
+	- book `/bʊk/`
+	- good `/ɡʊd/`
+	- foot `/fʊt/`
+	- wood `/wʊd/`
+	- would 
+		- (strong) `/wʊd/` 
+		- (weak) `/wəd/`
+	- full `/fʊl/`
+	- pull `/pʊl/`
+	- push `/pʊʃ/`

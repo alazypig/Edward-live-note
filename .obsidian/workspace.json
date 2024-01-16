@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b8ec1c57dd540237",
+        "id": "691d01c56abc3891",
         "type": "tabs",
         "children": [
           {
-            "id": "f1dc0c8d43a10e7b",
+            "id": "3bb0f9ce08d6972b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/speaking english/i & ɪ.md",
+                "file": "笔记/spoken english/R-coloured vowel.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "53ec49e255635e53",
+        "id": "430f64109b44c00f",
         "type": "tabs",
         "children": [
           {
-            "id": "40dcd5738d11d008",
+            "id": "cfeb80cf00f15bf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/speaking english/i & ɪ.md",
+                "file": "笔记/spoken english/R-coloured vowel.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/speaking english/i & ɪ.md",
+                "file": "笔记/spoken english/R-coloured vowel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/speaking english/i & ɪ.md",
+                "file": "笔记/spoken english/R-coloured vowel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/speaking english/i & ɪ.md"
+                "file": "笔记/spoken english/R-coloured vowel.md"
               }
             }
           }
@@ -177,15 +177,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f1dc0c8d43a10e7b",
+  "active": "cfeb80cf00f15bf8",
   "lastOpenFiles": [
-    "笔记/speaking english/æ.md",
-    "笔记/speaking english/e.md",
-    "笔记/speaking english/ɔː & ɑː.md",
-    "笔记/speaking english/i & ɪ.md",
-    "笔记/speaking english/schwa sound.md",
-    "笔记/speaking english/ʌ.md",
-    "笔记/speaking english",
+    "笔记/spoken english/uː & ʊ.md",
+    "笔记/spoken english/R-coloured vowel.md",
+    "笔记/spoken english/i & ɪ.md",
+    "笔记/spoken english/e.md",
+    "笔记/spoken english/ɔː & ɑː.md",
+    "笔记/spoken english/schwa sound.md",
+    "笔记/spoken english/æ.md",
+    "笔记/spoken english/ʌ.md",
+    "笔记/spoken english",
     "总结/2023 总结.md",
     "总结/2022 总结.md",
     "书籍/《经济学原理》第七版-宏观经济学分册.md",
@@ -205,8 +207,6 @@
     "Diary/2022-03-31.md",
     "Diary/2020-05-27.md",
     "Diary/2023-09-27.md",
-    "笔记/frontend/Fiber架构的心智模型.md",
-    "笔记/frontend/Fiber架构的实现原理.md",
     "未命名.canvas"
   ]
 }
