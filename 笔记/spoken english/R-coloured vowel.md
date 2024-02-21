@@ -1,4 +1,27 @@
 日化元音（儿化音）
 
-- `/ɝː/`
-	- 
+- r `/ɝː/`
+	- bird `/bɝːd/`
+	- nurse `/nɝːs/`
+	- first `/ˈfɝːst/`
+	- hurt `/hɝːt/`
+	- burn `/bɝːn/`
+	- learn `/lɝːn/`
+	- turn `/tɝːn/`
+- `[ɑː] + [ɝ] = [ɑːr]`
+	- heart `/hɑːrt/`
+	- far `/fɑːr/`
+	- large `/lɑːrdʒ/`
+-  `[ɔː] + [ɝ] = [ɔːr]`
+	- more `/mɔːr/`
+	- sure `/ʃɔːr/`
+	- tour `/tʊr/`
+-  `[e] + [ɝ] = [er]`
+	- air `/er/`
+	- hair `/her/`
+	- glare `/ɡler/`
+	- care `/ker/`
+-  `[ɪr]` 当做 `[i:r]`
+	- fear `/fɪr/`
+	- hear `/hɪr/`
+	- near `/nɪr/`
