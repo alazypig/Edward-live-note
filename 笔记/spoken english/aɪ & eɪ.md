@@ -1,0 +1,17 @@
+- aɪ
+	- like
+	- guy
+	- hi
+	- site
+	- nice
+	- fight
+	- slight
+	- might
+	- bye
+- eɪ
+	- hey
+	- may
+	- fake
+	- hate
+	- lake
+	- cake

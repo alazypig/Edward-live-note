@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4fbc1967b0e8c58a",
+        "id": "19dc3f50aa0a6df7",
         "type": "tabs",
         "children": [
           {
-            "id": "b234796f285f9f1c",
+            "id": "feefbf894bab0a27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/印章/光敏垫固定曝光思路.md",
+                "file": "笔记/spoken english/tʃ & dʒ.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/印章/光敏垫固定曝光思路.md",
+                "file": "笔记/spoken english/tʃ & dʒ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/印章/光敏垫固定曝光思路.md",
+                "file": "笔记/spoken english/tʃ & dʒ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +125,7 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "sortOrder": "frequency"
               }
             }
           },
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/印章/光敏垫固定曝光思路.md"
+                "file": "笔记/spoken english/tʃ & dʒ.md"
               }
             }
           }
@@ -159,39 +157,39 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b234796f285f9f1c",
+  "active": "feefbf894bab0a27",
   "lastOpenFiles": [
+    "笔记/spoken english/ʃ & ʒ.md",
+    "笔记/spoken english/tʃ & dʒ.md",
+    "笔记/spoken english/θ & ð.md",
+    "笔记/spoken english/s & z.md",
+    "笔记/spoken english/t & d.md",
+    "笔记/spoken english/schwa sound.md",
+    "笔记/spoken english/R-coloured vowel.md",
+    "笔记/spoken english/juː.md",
+    "笔记/spoken english/f & v.md",
+    "笔记/spoken english/k & g.md",
+    "笔记/spoken english/p & b.md",
+    "笔记/spoken english/ɔɪ.md",
+    "笔记/spoken english/æ.md",
+    "笔记/spoken english/aɪ & eɪ.md",
+    "笔记/spoken english/ɔː & ɑː.md",
+    "笔记/spoken english/aʊ.md",
+    "笔记/spoken english/oʊ.md",
+    "笔记/spoken english/ʌ.md",
+    "笔记/spoken english/uː & ʊ.md",
+    "笔记/spoken english/i & ɪ.md",
+    "笔记/spoken english/e.md",
     "笔记/印章/光敏垫固定曝光思路.md",
     "笔记/印章",
-    "笔记/spoken english/R-coloured vowel.md",
     "images/Pasted image 20231108183611.png",
     "images/Pasted image 20231108183417.png",
     "README.md",
-    "笔记/spoken english/ʌ.md",
-    "笔记/spoken english/uː & ʊ.md",
-    "笔记/spoken english/æ.md",
-    "笔记/spoken english/e.md",
-    "笔记/spoken english/ɔː & ɑː.md",
-    "笔记/spoken english/i & ɪ.md",
-    "笔记/spoken english/schwa sound.md",
     "笔记/spoken english",
     "总结/2023 总结.md",
     "总结/2022 总结.md",
     "书籍/《经济学原理》第七版-宏观经济学分册.md",
-    "总结/2021 观影记录.md",
-    "总结/2021 总结.md",
-    "Diary/2021-05-09.md",
-    "总结/2020 总结.md",
-    "Diary/2020-12-15.md",
-    "总结/2020-11 总结.md",
-    "总结/2020-10 总结.md",
-    "Diary/2021-10-31.md",
     "总结",
-    "Diary/2021-11-24.md",
-    "Diary/2021-09-06.md",
-    "Diary/2022-07-26.md",
-    "Diary/2022-04-21.md",
-    "Diary/2022-03-31.md",
     "未命名.canvas"
   ]
 }
