@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4fbc1967b0e8c58a",
+        "id": "1635dc08b6f80f0d",
         "type": "tabs",
         "children": [
           {
-            "id": "b234796f285f9f1c",
+            "id": "4f70edee4defff30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/spoken english/长短元音.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/spoken english/长短元音.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/spoken english/长短元音.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "笔记/spoken english/长短元音.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,11 +151,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b234796f285f9f1c",
+  "active": "4f70edee4defff30",
   "lastOpenFiles": [
+    "笔记/紫微斗数/安星决.md",
+    "笔记/紫微斗数/要点.md",
+    "笔记/spoken english/长短元音.md",
     "笔记/spoken english/æ.md",
     "笔记/spoken english/uː & ʊ.md",
-    "笔记/spoken english/长短元音.md",
     "笔记/spoken english/oʊ.md",
     "笔记/spoken english/aɪ & eɪ.md",
     "笔记/印章/光敏垫固定曝光思路.md",
@@ -189,8 +183,6 @@
     "笔记/spoken english/i & ɪ.md",
     "笔记/spoken english/schwa sound.md",
     "笔记/spoken english",
-    "总结/2023 总结.md",
-    "总结/2022 总结.md",
     "总结",
     "未命名.canvas"
   ]
