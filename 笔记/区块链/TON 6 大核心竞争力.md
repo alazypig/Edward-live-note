@@ -9,6 +9,10 @@ TON模式：每个contract自带balance，用户对contract发起transfer，由c
 1. 异步
 2. 非原子
 
-操作可以串联，并且在其中一个任务失败时，对整个事件进行回滚。
+在ETH链上操作可以串联，并且在其中一个任务失败时，对整个事件进行回滚。
 >  The whole process is even atomic - if any of these steps fails, even the last, the whole transaction rolls back like it never happened.
 
+但是在TON中，合约之间的调用是异步的，导致回滚困难。
+但是也有好处，就是处理的速度变快了。
+
+### Your smart contract cannot run getter methods on other contracts
