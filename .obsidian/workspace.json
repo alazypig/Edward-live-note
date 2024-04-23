@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1635dc08b6f80f0d",
+        "id": "88b386fbffca38ba",
         "type": "tabs",
         "children": [
           {
-            "id": "4f70edee4defff30",
+            "id": "c6516962b8f8fa0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/区块链/TON 6 大核心竞争力.md",
+                "file": "笔记/frontend/React-native 环境.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/区块链/TON 6 大核心竞争力.md",
+                "file": "笔记/frontend/React-native 环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/区块链/TON 6 大核心竞争力.md",
+                "file": "笔记/frontend/React-native 环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/区块链/TON 6 大核心竞争力.md"
+                "file": "笔记/frontend/React-native 环境.md"
               }
             }
           }
@@ -159,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f70edee4defff30",
+  "active": "c6516962b8f8fa0c",
   "lastOpenFiles": [
-    "笔记/frontend/实现JS compiler.md",
+    "笔记/frontend/React-native 环境.md",
     "笔记/区块链/TON 6 大核心竞争力.md",
+    "笔记/frontend/实现JS compiler.md",
     "笔记/区块链",
     "笔记/Untitled.md",
     "实现JS compiler.pdf",
@@ -191,7 +192,6 @@
     "images/Pasted image 20231108183611.png",
     "images/Pasted image 20231108183417.png",
     "README.md",
-    "笔记/spoken english/ʌ.md",
     "笔记/spoken english",
     "总结",
     "未命名.canvas"
